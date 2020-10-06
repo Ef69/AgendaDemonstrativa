@@ -1,4 +1,6 @@
 // Teste de contribuição com branches
+// Éric dos Santos Ferreira
+//
 #include <iostream>
 
 int main(int argc, char **argv)
